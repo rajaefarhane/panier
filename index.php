@@ -7,6 +7,7 @@ include('header.php');
    <img alt="logo"src="image/logo.png" class="px-4 ">
    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
      <span class="navbar-toggler-icon"></span>
+     <h1>
    </button>
    <div class="px-4 collapse navbar-collapse" id="navbarText">
      <ul class="navbar-nav mr-auto">
@@ -126,15 +127,15 @@ include('header.php');
            <div class="container-fluid traitpanierfn ">
                      <div class="row">
                        <div class="col-lg-3 ">
-                         <div class="des">
-                           <img src="image/imm1.png" class="pre1">
+                         <div class="dess">
+                           <img src="image/imm1.png" class="pre1panier">
 <!-- ************************************* image pour la pertie mobile d'overlay **************************-->
                             <img src="image/matr1.png" class="pre1mobile">
 <!-- ***************************************fin image mobile *********************************************-->
-                          <div class="overlay">
-                           <div class="py-4 text">STICKER</div><br>
+                          <div class="overlayp">
+                           <div class="py-4 textsticker">STICKER</div><br>
                            <div class="py-4 textt">6€</div><br>
-                           <div class="py-4 texttt"><h3 class="voir"><a href="dettail.php" class="stdetaile">Voir le produit</a></h3></div>
+                           <div class="py-4 texttt"><h3 class="voir"><a href="dettail.php" class="stdetailee">Voir le produit</a></h3></div>
                               <hr>
                           </div>
                        </div>
